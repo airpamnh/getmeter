@@ -1,7 +1,7 @@
 const CACHE_NAME = 'pencatatan-air-v1';
 const urlsToCache = [
   './index.html',
-  './data.js',
+  './pelanggan.js',
   './manifest.json'
   // Tambahkan file CSS atau gambar pendukung lainnya di sini jika ada
 ];
