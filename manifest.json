@@ -2,7 +2,9 @@
   "name": "Pencatatan Air Lapangan",
   "short_name": "Pencatatan Air",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#121417",
   "theme_color": "#121417",
   "icons": [
